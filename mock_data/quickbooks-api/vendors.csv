@@ -1,0 +1,9 @@
+Id,DisplayName,CompanyName,PrimaryEmailAddr,PrimaryPhone,BillAddr_Line1,BillAddr_City,BillAddr_CountrySubDivisionCode,BillAddr_PostalCode,Balance,Active,AcctNum,Vendor1099
+101,Dahlberg Transport AB,Dahlberg Transport AB,dispatch@dahlbergtransport.se,+46 8 555 9101,12 Transportvagen,Stockholm,AB,11122,1200.00,true,FCV-101,false
+102,Dahlberg Logistics AB,Dahlberg Logistics AB,billing@dahlberglogistics.se,+46 8 555 9102,14 Logistikgatan,Stockholm,AB,11123,350.00,true,FCV-102,false
+103,Lindstrom Supplies,Lindstrom Supplies,orders@lindstromsupplies.se,+46 8 555 9103,8 Kontorsgrand,Stockholm,AB,11124,580.00,true,FCV-103,false
+104,Dahlberg Transport KB,Dahlberg Transport KB,dispatch@dahlbergtransportkb.se,+46 8 555 9104,12 Transportvagen,Stockholm,AB,11122,0.00,true,FCV-104,false
+105,Pelikan Restaurant,Pelikan Restaurant,info@pelikan.se,+46 8 555 9105,40 Blekingegatan,Stockholm,AB,11662,0.00,true,FCV-105,false
+106,Sodermalm Loparklubb,Sodermalm Loparklubb,treasurer@sodermalmloparklubb.se,+46 8 555 9106,2 Loparvagen,Stockholm,AB,11822,0.00,true,FCV-106,false
+107,SATS Medborgarplatsen,SATS Medborgarplatsen,medborgarplatsen@sats.se,+46 8 555 9107,4 Medborgarplatsen,Stockholm,AB,11826,0.00,true,FCV-107,false
+108,Tandvardskliniken Soder,Tandvardskliniken Soder,soder@tandvardskliniken.se,+46 8 555 9108,12 Tandvardsgrand,Stockholm,AB,11830,0.00,true,FCV-108,false

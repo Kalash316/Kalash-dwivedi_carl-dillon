@@ -1,0 +1,11 @@
+Id,Name,AccountType,AccountSubType,CurrentBalance,Active,Classification,Description
+1,Reimbursement Grant Revenue,Income,NonProfitIncome,5211.92,true,Revenue,Grant or contract funds
+2,Emergency Housing Reimbursements,Expense,OtherBusinessExpenses,2290.22,true,Expense,Relocation cases
+3,Travel Expense,Expense,Travel,481.81,true,Expense,Mileage and transport
+4,Food & Essentials Reimbursements,Expense,SuppliesMaterials,305.74,true,Expense,Food supply
+5,Reimbursement Clearing,Bank,Checking,25000.00,true,Asset,Clearing account
+6,Accounts Receivable,Accounts Receivable,AccountsReceivable,4245.43,true,Asset,Pending documentation
+7,Accounts Payable,Accounts Payable,AccountsPayable,4245.43,true,Liability,Outstanding balance
+8,Duplicate Review Reserve,Other Current Liability,OtherCurrentLiabilities,1293.28,true,Liability,Held amount
+9,Document Reconciliation,Expense,OtherBusinessExpenses,0.00,true,Expense,Administrative review
+10,Retained Earnings,Equity,RetainedEarnings,0.00,true,Equity,Accumulated net assets

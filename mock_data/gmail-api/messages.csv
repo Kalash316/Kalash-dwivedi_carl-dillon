@@ -1,0 +1,13 @@
+id,thread_id,from_addr,to_addr,cc_addr,subject,snippet,body,date,internal_date,size_estimate,labels,is_unread,is_starred
+msg-9901,thr-9901,billing@dahlberglogistics.se,carl.dillon@gmail.com,,Invoice paid INV-2026-002,Hi Carl - this email confirms that payment of 350.00 SEK has been processed...,"Hi Carl,
+
+This email confirms that payment of 350.00 SEK for invoice INV-2026-002 has been processed on October 1.
+
+Best,
+Logistics Team",2026-10-01T10:00:00Z,1790800000000,2200,INBOX,false,false
+msg-9902,thr-9902,treasurer@sodermalmloparklubb.se,carl.dillon@gmail.com,,Autumn Relay volunteer signup,Thanks for volunteering...,"Hi Carl,
+
+Thanks for signing up to volunteer for the relay on October 10.
+
+Best,
+Committee",2026-10-02T15:30:00Z,1790900000000,1200,INBOX,false,false

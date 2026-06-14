@@ -1,0 +1,127 @@
+[
+  {
+    "Id": "3021",
+    "DocNumber": "TXN-9901",
+    "VendorRef": {
+      "value": "101",
+      "name": "Dahlberg Transport AB"
+    },
+    "TxnDate": "2026-09-30",
+    "DueDate": "2026-10-15",
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Courier and heavy transport services for audit files.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Travel Expense",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 1200.0,
+    "PrivateNote": "Awaiting approval."
+  },
+  {
+    "Id": "3022",
+    "DocNumber": "TXN-9902",
+    "VendorRef": {
+      "value": "102",
+      "name": "Dahlberg Logistics AB"
+    },
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-15",
+    "Line": [
+      {
+        "Amount": 350.0,
+        "Description": "Standard courier delivery.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Travel Expense",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "Balance": 350.0,
+    "PrivateNote": "Payment voided on 2026-10-05 due to bank clearance error."
+  },
+  {
+    "Id": "3023",
+    "DocNumber": "TXN-9903",
+    "VendorRef": {
+      "value": "103",
+      "name": "Lindstrom Supplies"
+    },
+    "TxnDate": "2026-10-02",
+    "DueDate": "2026-10-30",
+    "Line": [
+      {
+        "Amount": 580.0,
+        "Description": "Office supplies and folders for junior training program.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Document Reconciliation",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 580.0,
+    "Balance": 580.0,
+    "PrivateNote": "Entered by junior staff. Verify receipt."
+  },
+  {
+    "Id": "3024",
+    "DocNumber": "TXN-9001",
+    "VendorRef": {
+      "value": "101",
+      "name": "Dahlberg Transport AB"
+    },
+    "TxnDate": "2025-05-14",
+    "DueDate": "2025-05-28",
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Prior-season audit file shipment.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Travel Expense",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0.0,
+    "PrivateNote": "Historical archive."
+  },
+  {
+    "Id": "3025",
+    "DocNumber": "TXN-9002",
+    "VendorRef": {
+      "value": "103",
+      "name": "Lindstrom Supplies"
+    },
+    "TxnDate": "2025-06-01",
+    "DueDate": "2025-06-15",
+    "Line": [
+      {
+        "Amount": 150.0,
+        "Description": "Prior-season file folders.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Document Reconciliation",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150.0,
+    "Balance": 0.0,
+    "PrivateNote": "Historical archive."
+  }
+]

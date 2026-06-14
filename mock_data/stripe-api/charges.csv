@@ -1,0 +1,2 @@
+id,customer,amount,currency,status,paid,refunded,amount_refunded,description,payment_intent,created
+ch_3Aurora01,cus_Nb1Aurora,1900,usd,succeeded,true,false,0,Starter Monthly,pi_3Aurora01,1717286400

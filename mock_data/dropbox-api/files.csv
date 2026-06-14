@@ -1,0 +1,3 @@
+id,name,path_lower,path_display,is_folder,size,client_modified,rev
+id:a4ayc_001,Documents,/documents,/Documents,true,0,2026-05-02T09:14:00Z,
+id:a4ayc_002,Q2-Report.pdf,/documents/q2-report.pdf,/Documents/Q2-Report.pdf,false,284517,2026-05-10T14:32:00Z,0123456789abcdef01000001
