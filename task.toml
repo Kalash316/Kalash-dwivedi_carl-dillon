@@ -1,0 +1,9 @@
+# Kensei Task Configuration
+id = "kensei_forensic_audit_task"
+name = "Forensic Audit Training Setup - QuickBooks & E-Commerce Cross-Check"
+category = "operations_qa"
+subcategory = "document_receipt_processing"
+goal = "Audit the training sandbox invoices and QuickBooks transactions, identifying discrepancies while respecting auto-approval and data sharing constraints."
+required_tools = ["bash", "python"]
+required_skills = ["quickbooks-api", "gmail-api"]
+distractor_skills = ["xero-api", "stripe-api", "dropbox-api"]
