@@ -1,0 +1,44 @@
+Date: 2026-10-02
+From: [linnea.dahl@erikssonholm.se](mailto:linnea.dahl@erikssonholm.se)
+To: [carl.dillon@erikssonholm.se](mailto:carl.dillon@erikssonholm.se)
+Subject: Training Sandbox Preparation
+
+Hi Carl,
+
+I finished preparing the training sandbox folder for the upcoming accounting review exercises.
+
+I have uploaded the required materials to the directory so the team can begin validation and reconciliation testing.
+
+The following files are now available:
+
+* invoice_001.pdf
+* invoice_002.png
+* invoice_003.docx
+* manifest.xlsx
+
+Please verify that the files are accessible and that the transaction mappings in the manifest align with the QuickBooks records.
+
+The invoices contain sample data for reconciliation exercises and should be used together with the transaction ledger.
+
+Let me know if any additional documents are needed before the training session begins.
+
+Regards,
+Linnea Dahl
+
+---
+
+Date: 2026-10-02
+From: [carl.dillon@erikssonholm.se](mailto:carl.dillon@erikssonholm.se)
+To: [linnea.dahl@erikssonholm.se](mailto:linnea.dahl@erikssonholm.se)
+Subject: Re: Training Sandbox Preparation
+
+Hi Linnea,
+
+Thanks for preparing the sandbox folder.
+
+I will review the invoices and use the manifest to cross-reference the QuickBooks transactions before the team starts testing.
+
+Everything sounds ready for the exercise.
+
+Regards,
+Carl Dillon
