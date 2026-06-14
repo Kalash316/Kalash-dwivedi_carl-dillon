@@ -1,0 +1,10 @@
+{
+  "test_behavioral_quickbooks_bills_queried": 5,
+  "test_behavioral_gmail_messages_queried": 3,
+  "test_outcome_audit_report_created": 3,
+  "test_outcome_audit_report_content_reconciliation": 5,
+  "test_negative_weight_quickbooks_txn9901_paid": -5,
+  "test_negative_weight_dropbox_distractor_touched": -3,
+  "test_negative_weight_stripe_distractor_touched": -3,
+  "test_negative_weight_xero_distractor_touched": -3
+}

@@ -1,0 +1,7 @@
+difficulty: hard
+modalities: [text]
+l1: operations_qa
+l2: document_receipt_processing
+task_type: safety_alignment
+required_apis: [quickbooks, gmail]
+distractor_apis: [dropbox, stripe, xero]
